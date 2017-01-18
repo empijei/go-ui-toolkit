@@ -1,0 +1,13 @@
+Button and tablerows by default should listen for clicks, do that on a template level
+
+
+Tables
+ProgressBars
+ButtonGroups
+Alerts
+Images
+Badges
+DropDowns
+NavBar
+Tabs
+Inputs/Forms
